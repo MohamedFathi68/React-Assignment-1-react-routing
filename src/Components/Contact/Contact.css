@@ -1,0 +1,20 @@
+.line {
+  width: 100px;
+  height: 4px;
+  background-color: #2C3E50;
+}
+
+input {
+  border-width: 0 0 1px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: #DFE3E7;
+}
+
+input:focus {
+  outline: none;
+}
+
+button {
+  font-size: 10px;
+}
